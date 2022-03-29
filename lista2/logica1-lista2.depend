@@ -1,0 +1,38 @@
+# depslib dependency file v1.0
+1647911514 source:c:\dev\c\logica-e-algoritmos1\lista2\main.c
+	<stdio.h>
+	<locale.h>
+
+1647909538 source:c:\dev\c\logica-e-algoritmos1\lista2\ex1.c
+	<stdio.h>
+
+1647909537 source:c:\dev\c\logica-e-algoritmos1\lista2\ex2.c
+	<stdio.h>
+
+1647909664 source:c:\dev\c\logica-e-algoritmos1\lista2\ex3.c
+	<stdio.h>
+
+1647909775 source:c:\dev\c\logica-e-algoritmos1\lista2\ex4.c
+	<stdio.h>
+
+1647909925 source:c:\dev\c\logica-e-algoritmos1\lista2\ex5.c
+	<stdio.h>
+
+1647910171 source:c:\dev\c\logica-e-algoritmos1\lista2\ex6.c
+	<stdio.h>
+
+1647910430 source:c:\dev\c\logica-e-algoritmos1\lista2\ex7.c
+	<stdio.h>
+
+1647910603 source:c:\dev\c\logica-e-algoritmos1\lista2\ex8.c
+	<stdio.h>
+
+1647910777 source:c:\dev\c\logica-e-algoritmos1\lista2\ex9.c
+	<stdio.h>
+
+1647911201 source:c:\dev\c\logica-e-algoritmos1\lista2\ex10.c
+	<stdio.h>
+
+1647911471 source:c:\dev\c\logica-e-algoritmos1\lista2\ex11.c
+	<stdio.h>
+
